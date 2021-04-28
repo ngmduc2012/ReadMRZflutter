@@ -149,6 +149,7 @@ Positioned _buildCropBoxDetail() {
           alignment: Alignment.centerLeft,
           child: Container(
             constraints: BoxConstraints(
+              //
               maxWidth: 450,
             ),
             margin: const EdgeInsets.only(
